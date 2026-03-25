@@ -13,3 +13,7 @@
     line-height: 1.2;
     word-break: break-word;
 }
+.visited-country{
+    background-color: rgba(2, 88, 76, 0.301);
+    color: rgb(20, 167, 76);
+}
